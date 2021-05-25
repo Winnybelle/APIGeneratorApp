@@ -1,4 +1,4 @@
-//create a fuction to geenrerate the uuid(universally unique identifier)
+//create a function to genrerate the uuid(universally unique identifier)
 /**UUIDs are generally used for identifying information that needs to be unique within a system or network thereof. Their uniqueness and low probability in being repeated makes them useful for being associative keys in databases and identifiers for physical hardware within an organization. */
 
 function generateUUID () {
