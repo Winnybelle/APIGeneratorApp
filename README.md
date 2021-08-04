@@ -1,1 +1,1 @@
-# APIGeneratorApp
+# JavaScript APIGeneratorApp
